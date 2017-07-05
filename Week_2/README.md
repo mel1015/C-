@@ -1,4 +1,4 @@
-## Week_1
+## Week_2
 >Array & Pointer
 
 ## Quiz_1 조건
