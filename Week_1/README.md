@@ -10,4 +10,4 @@
 - 문자열을 다루는 것은 C언어 스타일의 strcpy, strlen, strcmp를 사용
 
 ## 결과 예시
-![ex_screenshot](./img/Quiz1.png)
+![Quiz1](Quiz1.png)
