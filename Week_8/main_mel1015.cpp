@@ -170,7 +170,7 @@ void Change_Employee_Data(Employee** Employee_Pointer)
 				number = 0;
 				int pay = 0;
 				name = new char[21];
-				cout << endl <<"Changed name : ";
+				cout << endl << "Changed name : ";
 				cin.getline(name, 21);
 				cout << "Changed number : ";
 				cin >> number;
@@ -219,7 +219,7 @@ void Search_Employee(Employee** Employee_Pointer)
 				cout << setw(22) << "Name" << setw(10) << "Number" << setw(8) << "Pay" << endl;
 				cout << "---------------------------------------------" << endl;
 				Employee_Pointer[i]->showDetail();
-				cout << "---------------------------------------------" << endl <<endl;
+				cout << "---------------------------------------------" << endl << endl;
 				check = false;
 				break;
 			}
