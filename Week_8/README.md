@@ -13,7 +13,7 @@
 - 이름과 객체들은 동적 할당 받으며, 메모리 해제가 완벽히 구현되야함
 - 따라서, Rule of Three 가 완전히 충족되게 구현 <br>
 - Rule of Three 란? -> [Rule of Three](http://en.cppreference.com/w/cpp/language/rule_of_three)
-    
+
 ## 결과 예시
 ![Quiz1_1](Quiz1_1.png)
 ![Quiz1_2](Quiz1_2.png)
@@ -22,6 +22,5 @@
 ## 추가할 내용
 
 - 신광식
-    - Rule of Three 를 충족시킬 것
-    - 사용자 정의 소멸자, 사용자 정의 복사 생성자, 사용자 정의 사본 할당 연산자 구현
-    
+    - ~~Rule of Three 를 충족시킬 것~~
+    - ~~사용자 정의 소멸자, 사용자 정의 복사 생성자, 사용자 정의 사본 할당 연산자 구현~~
