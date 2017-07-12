@@ -1,4 +1,4 @@
-## Week_8
+## Day08
 
 **Class Component & Inheritance & Polymorphism**
 
@@ -15,9 +15,17 @@
 - Rule of Three 란? -> [Rule of Three](http://en.cppreference.com/w/cpp/language/rule_of_three)
 
 ## 결과 예시
+
 ![Quiz1_1](Quiz1_1.png)
+
 ![Quiz1_2](Quiz1_2.png)
+
 ![Quiz1_3](Quiz1_3.png)
+
+
+## Tip
+
+- 신광식 : Rule of three -> C++ 은 다양한 상황에서 사용자 정의 유형의 객체를 복사하고 복사하므로 오류를 예방하기 위해 구현해야 한다.
 
 ## 추가할 내용
 
