@@ -603,6 +603,10 @@ void Data_File_Write(Employee** Employee_Pointer, int& List_Length)
 	{
 		cout << "Data.txt file open failed" << endl << endl;
 	}
+	else if (List_Length == 0)
+	{
+		cout << "Nothing to save" << endl << endl;
+	}
 	else
 	{
 		fout << setw(8) << "Type" << setw(22) << "Name" << setw(10) << "Number" << setw(10) << "Pay" << endl;
