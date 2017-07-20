@@ -1,4 +1,4 @@
-## Day10
+﻿## Day10
 
 **Exception Handling & File I/O**
 
@@ -19,6 +19,8 @@
 ## Tip
 
 - 신광식 :
+
+- 박찬종 : ㄱㄱ
 
 ## 추가할 내용
 
